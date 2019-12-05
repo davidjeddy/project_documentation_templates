@@ -24,9 +24,8 @@
 
 - Ask any question about how to use the code base via the following forms of communication:
 
-  - [Email]()
-  - [Gitter]()
-  - [Slack]()
+  - [support@tenerum.com](support@tenerum.com)
+  - [GitLab](https://gitlab.code.tenerum.io/)
 
 ### **Do you want to contribute to the documentation?**
 

@@ -2,6 +2,13 @@
 
 ## Badges
 
+<!-- GitLAb Badges -->
+
+![pipeline](https://gitlab.code.tenerum.io/deddy/project_documentation_templates/badges/master/pipeline.svg)
+![coverage](https://gitlab.code.tenerum.io/deddy/project_documentation_templates/badges/master/coverage.svg)
+
+<!-- GitHub Badges -->
+
 Build Status, Code Coverage, PR stats/timeframe, Project status, etc.
 
 ## Description
