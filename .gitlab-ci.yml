@@ -13,4 +13,4 @@ include:
 example_step:
   stage: example_stage
   script:
-  - echo 'Example step script'/bin
+  - echo 'Example step script'
