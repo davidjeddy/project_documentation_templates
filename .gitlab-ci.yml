@@ -1,0 +1,16 @@
+default:
+  image: alpine:3.10.1
+
+stages:
+  - example_stage
+
+include:
+  - project: devops/releng/source-control-auto-tagger
+    file: autotagger.yaml
+
+# install Stage steps
+
+example_step:
+  stage: example_stage
+  script:
+  - echo 'Example step script'/bin

@@ -4,8 +4,6 @@
 
 Build Status, Code Coverage, PR stats/timeframe, Project status, etc.
 
-[![pipeline status](https://gitlab.code.tenerum.io/deddy/project_documentation_templates/badges/master/pipeline.svg)](https://gitlab.code.tenerum.io/deddy/project_documentation_templates/tree/master)
-
 ## Description
 
 Why does this project exist?
