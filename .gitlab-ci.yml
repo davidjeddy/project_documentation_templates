@@ -3,6 +3,7 @@ default:
 
 stages:
   - example_stage
+  - tag
 
 include:
   - project: devops/releng/source-control-auto-tagger
