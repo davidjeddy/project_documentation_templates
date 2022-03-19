@@ -2,7 +2,7 @@
 
 ## Badges
 
-Build Status, Code Coverage, PR stats/timeframe, Project status, etc.
+Build Status, Code Coverage, PR stats/time frame, Project status, etc.
 
 ## Description
 
@@ -18,28 +18,30 @@ What does this project do?
 
 ## Special Features
 
-Does this proejct have a special ability or functionality the competitors do not?
+Does this project have a special ability or functionality the competitors do not?
 
 ## Table of Contents
 
-- [Badges](#Badges)
-- [Description](#Description)
-- [Purpose](#Purpose)
-- [Special Features](#Special%20Features)
-- [Functionality](#Functionality)
-- [Table of Contents](#Table%20of%20Contents)
-- [Contributing](#Contributing)
-  - [Code of Conduct](#Code%20of%20Conduct)
-  - [Contributor Guidelines](#Contributing%20Guidelines)
-  - [Development Documentation](#DEVDOCS)
-- [Requirements](#Requirements)
-- [How to](#How%20to%20)
-  - [Obtain](#Obtain)
-  - [Configure](#Configure)
-  - [Run](#Run)
-  - [Stop](#Stop)
-- [Versioning](#Versioning)
-- [Additonal Information](#Additonal%20Information)
+- [NAME](#name)
+  - [Badges](#badges)
+  - [Description](#description)
+  - [Purpose](#purpose)
+  - [Functionality](#functionality)
+  - [Special Features](#special-features)
+  - [Table of Contents](#table-of-contents)
+  - [Contributing](#contributing)
+    - [Code of Conduct](#code-of-conduct)
+    - [Contributing Guidelines](#contributing-guidelines)
+    - [Development Documentation](#development-documentation)
+  - [Requirements](#requirements)
+  - [How to](#how-to)
+    - [Obtain](#obtain)
+    - [Configure](#configure)
+    - [Run](#run)
+    - [Stop](#stop)
+  - [Versioning](#versioning)
+  - [Contributors](#contributors)
+  - [Additional Information](#additional-information)
 
 ## Contributing
 
@@ -61,7 +63,7 @@ Please see [DEVDOCS.md](./DEVDOCS.md).
 - required to run
 - the project (pre project cloning).
 - Do not include
-- project dependancies
+- project dependencies
 - installed via a
 - package manager such
 - as compose, npm, gem, etc.
@@ -114,11 +116,11 @@ Additional labels for pre-release and build metadata are available as extensions
 
 ## Contributors
 
-## Additonal Information
+## Additional Information
 
 - Adding visual aids to any / all the above sections above is recommended.
 - [Contributes](##Contributors) sources from [all-contributors](https://github.com/all-contributors/all-contributors).
-- [ROADMAP](./ROADMAP.md) example from [all-contributors/all-contributors ](https://github.com/all-contributors/all-contributors/blob/master/MAINTAINERS.md).
+- [ROADMAP](./ROADMAP.md) example from [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/blob/master/MAINTAINERS.md).
 - Based on [README Maturity Model](https://github.com/LappleApple/feedmereadmes/blob/master/README-maturity-model.md); strive for a Level 5 `Product-oriented README`.
 - This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 - [CONTRIBUTING.md](./CONTRIBUTING.md) is based on the [Ruby on Rails Contributing](https://github.com/rails/rails/blob/master/CONTRIBUTING.md) document, credit is due to them.
