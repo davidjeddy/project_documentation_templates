@@ -1,3 +1,0 @@
-# DEVELOPMENT DOCUMENTATION
-
-## style guidelines
