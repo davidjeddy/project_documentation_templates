@@ -1,47 +1,49 @@
 # NAME
 
+## Table of Contents
+
+- [NAME](#name)
+  - [Table of Contents](#table-of-contents)
+  - [Badges](#badges)
+  - [Description](#description)
+  - [Design](#design)
+  - [Purpose](#purpose)
+  - [Special Features](#special-features)
+  - [Contributing](#contributing)
+    - [Code of Conduct](#code-of-conduct)
+    - [Contributing Guidelines](#contributing-guidelines)
+    - [Development Documentation](#development-documentation)
+  - [RoadMap](#roadmap)
+  - [Requirements](#requirements)
+  - [Runbook](#runbook)
+  - [Usage](#usage)
+    - [Download](#download)
+    - [Configure](#configure)
+    - [Execute](#execute)
+    - [Terminate](#terminate)
+  - [Versioning](#versioning)
+  - [Contributors](#contributors)
+  - [Additional Information](#additional-information)
+
 ## Badges
 
 Build Status, Code Coverage, PR stats/time frame, Project status, etc.
 
 ## Description
 
-Why does this project exist?
+What project is this project addressing?
+
+## Design
+
+What is the architectural design of this project? Diagrams are great content here.
 
 ## Purpose
 
 Who needs it for what purpose? What problem / pain does this solve?
 
-## Functionality
-
-What does this project do?
-
 ## Special Features
 
-Does this project have a special ability or functionality the competitors do not?
-
-## Table of Contents
-
-- [NAME](#name)
-  - [Badges](#badges)
-  - [Description](#description)
-  - [Purpose](#purpose)
-  - [Functionality](#functionality)
-  - [Special Features](#special-features)
-  - [Table of Contents](#table-of-contents)
-  - [Contributing](#contributing)
-    - [Code of Conduct](#code-of-conduct)
-    - [Contributing Guidelines](#contributing-guidelines)
-    - [Development Documentation](#development-documentation)
-  - [Requirements](#requirements)
-  - [How to](#how-to)
-    - [Obtain](#obtain)
-    - [Configure](#configure)
-    - [Run](#run)
-    - [Stop](#stop)
-  - [Versioning](#versioning)
-  - [Contributors](#contributors)
-  - [Additional Information](#additional-information)
+Does this project have a special ability or functionality comparative projects do not?
 
 ## Contributing
 
@@ -55,7 +57,13 @@ Please see [CONTRIBUTING_GUIDELINES.md](./CONTRIBUTING_GUIDELINES.md).
 
 ### Development Documentation
 
-Please see [DEVDOCS.md](./DEVDOCS.md).
+Please see [DEVELOPMENT.md](./DEVELOPMENT.md).
+
+## RoadMap
+
+Upcoming planned project changes and feature adds.
+
+[./ROADMAP.md](./ROADMAP.md)
 
 ## Requirements
 
@@ -68,9 +76,15 @@ Please see [DEVDOCS.md](./DEVDOCS.md).
 - package manager such
 - as compose, npm, gem, etc.
 
-## How to
+## Runbook
 
-### Obtain
+A collection of errors and corrective actions within the scope of this project.
+
+[./RUNBOOK](./RUNBOOK.md)
+
+## Usage
+
+### Download
 
 ```sh
 git clone ...
@@ -84,7 +98,7 @@ to configure\n
 the project.\n"
 ```
 
-### Run
+### Execute
 
 ```sh
 echo -e "The commands\n
@@ -92,7 +106,7 @@ to run\n
 the project."
 ```
 
-### Stop
+### Terminate
 
 ```sh
 echo -e "You guessed it\n
@@ -102,7 +116,7 @@ the project.\n"
 
 ## Versioning
 
-This project follows [SemVer 2.0](https://semver.org/).
+This project follows [SemVer 2.0](https://semver.org/) tagging pattern.
 
 ```quote
 Given a version number MAJOR.MINOR.PATCH, increment the:
@@ -117,6 +131,9 @@ Additional labels for pre-release and build metadata are available as extensions
 ## Contributors
 
 ## Additional Information
+
+- [Changelog](https://github.com/olivierlacan/keep-a-changelog)
+- [Code of Conduct](https://github.com/github/opensource.guide/tree/main)
 
 - Adding visual aids to any / all the above sections above is recommended.
 - [Contributes](##Contributors) sources from [all-contributors](https://github.com/all-contributors/all-contributors).

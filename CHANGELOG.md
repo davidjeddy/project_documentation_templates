@@ -1,7 +1,5 @@
 # Changelog
 
-- Based on [https://github.com/olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog/blob/main/CHANGELOG.md).
-
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
@@ -9,26 +7,60 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.1] - 2023-03-05
+
 ### Added
 
-- Added Dutch translation
+- Arabic translation (#444).
+- v1.1 French translation.
+- v1.1 Dutch translation (#371).
+- v1.1 Russian translation (#410).
+- v1.1 Japanese translation (#363).
+- v1.1 Norwegian Bokmål translation (#383).
+- v1.1 "Inconsistent Changes" Turkish translation (#347).
+- Default to most recent versions available for each languages
+- Display count of available translations (26 to date!)
+- Centralize all links into `/data/links.json` so they can be updated easily
 
 ### Fixed
 
-- Fixed foldouts in Dutch translation
+- Improve French translation (#377).
+- Improve id-ID translation (#416).
+- Improve Persian translation (#457).
+- Improve Russian translation (#408).
+- Improve Swedish title (#419).
+- Improve zh-CN translation (#359).
+- Improve French translation (#357).
+- Improve zh-TW translation (#360, #355).
+- Improve Spanish (es-ES) transltion (#362).
+- Foldout menu in Dutch translation (#371).
+- Missing periods at the end of each change (#451).
+- Fix missing logo in 1.1 pages
+- Display notice when translation isn't for most recent version
+- Various broken links, page versions, and indentations.
+
+### Changed
+
+- Upgrade dependencies: Ruby 3.2.1, Middleman, etc.
+
+### Removed
+
+- Unused normalize.css file
+- Identical links assigned in each translation file
+- Duplicate index file for the english version
 
 ## [1.1.0] - 2019-02-15
 
 ### Added
 
-- Danish translation from [@frederikspang](https://github.com/frederikspang).
-- Georgian translation from [@tatocaster](https://github.com/tatocaster).
-- Changelog inconsistency section in Bad Practices
+- Danish translation (#297).
+- Georgian translation from (#337).
+- Changelog inconsistency section in Bad Practices.
 
-### Changed
+### Fixed
 
-- Fixed typos in Italian translation from [@lorenzo-arena](https://github.com/lorenzo-arena).
-- Fixed typos in Indonesian translation from [@ekojs](https://github.com/ekojs).
+- Italian translation (#332).
+- Indonesian translation (#336).
 
 ## [1.0.0] - 2017-06-20
 
@@ -69,7 +101,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve "Commit log diffs" sub-section to further argument against
   them.
 - Merge "Why can’t people just use a git log diff?" with "Commit log
-  diffs"
+  diffs".
 - Fix typos in Simplified Chinese and Traditional Chinese translations.
 - Fix typos in Brazilian Portuguese translation.
 - Fix typos in Turkish translation.
@@ -187,12 +219,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - This CHANGELOG file to hopefully serve as an evolving example of a
   standardized open source project CHANGELOG.
-- CNAME file to enable GitHub Pages custom domain
-- README now contains answers to common questions about CHANGELOGs
+- CNAME file to enable GitHub Pages custom domain.
+- README now contains answers to common questions about CHANGELOGs.
 - Good examples and basic guidelines, including proper date formatting.
-- Counter-examples: "What makes unicorns cry?"
+- Counter-examples: "What makes unicorns cry?".
 
-[unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.1.0...HEAD
+[unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.1.1...HEAD
+[1.1.1]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.3.0...v1.0.0
 [0.3.0]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.2.0...v0.3.0

@@ -18,15 +18,11 @@
 
 - Ensure the CS description clearly describes the problem and solution. Include the relevant issue number and change source branch name.
 
-- Before submitting, please read the [DevDocs](./DEVDOCS.md) guide to know more about coding conventions, benchmarks, style guide, and more.
+- Before submitting, please read the [DevDocs](./DEVELOPMENT.md) guide to know more about coding conventions, benchmarks, style guide, and more.
 
 ### **Do you have questions about the source code?**
 
-- Ask any question about how to use the code base via the following forms of communication:
-
-  - [Email]()
-  - [Gitter]()
-  - [Slack]()
+- Post your question on the issues board of the project.
 
 ### **Do you want to contribute to the documentation?**
 
