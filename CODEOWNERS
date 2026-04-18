@@ -1,0 +1,6 @@
+# source https://docs.gitlab.com/ee/user/project/code_owners.html
+
+# Within Tenerum use email addresses as much as possible within CODEOWNERS.
+# GitLab groups and assignment to sub directories is possible.
+
+CODEOWNERS @maintainers 
